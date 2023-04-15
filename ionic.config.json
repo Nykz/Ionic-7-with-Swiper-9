@@ -1,0 +1,7 @@
+{
+  "name": "swiperjs-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
